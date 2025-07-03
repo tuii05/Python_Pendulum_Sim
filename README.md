@@ -1,10 +1,6 @@
-<div alig="center">
-  <center><h1>My title</h1></center>
-</div>
-
-<p align="center">
-<center><h1>Single pendulum simulation with air resistance.</h1></center>
-</p>
+<h1><p align="center">
+Single pendulum simulation with air resistance.
+</p></h1>
 <p align="justify">
 The simulation contains one pendulum and renders its motion physically accurate by solving the differential equation gained by Newton's laws. The program is modifiable with "datas.txt" and runnable by "main.exe". The parameteres in "datas.txt" are the following:
 - phi0: initial angular displacement.
