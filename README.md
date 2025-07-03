@@ -1,5 +1,5 @@
 <p align="center">
-Single pendulum simulation with air resistance. <br \>
+#Single pendulum simulation with air resistance. <br \>
 <br \>
 </p>
 <p align="justify">
