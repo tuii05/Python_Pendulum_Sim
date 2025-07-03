@@ -1,6 +1,6 @@
 ## Single pendulum simulation with air resistance
 
-The simulation contains one pendulum and renders its motion physically accurately by solving the differential equation derived from Newton's laws. The program is modifiable via `datas.txt` and runnable with `main.exe`.
+The simulation contains one pendulum and renders its motion physically accurately by solving the differential equation derived from Newton's laws. The program gives out two graphs after solving the equatian and its parameters are modifiable via `datas.txt`, meanwhile the program is runnable with `main.exe`.
 
 The parameters in `datas.txt` are the following:
 
