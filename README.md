@@ -1,3 +1,7 @@
+<div alig="center">
+  <center><h1>My title</h1></center>
+</div>
+
 <p align="center">
 <center><h1>Single pendulum simulation with air resistance.</h1></center>
 </p>
