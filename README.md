@@ -4,6 +4,7 @@ Single pendulum simulation with air resistance.
 <p align="justify">
 The simulation contains one pendulum and renders its motion physically accurate by solving the differential equation gained by Newton's laws. The program is modifiable with "datas.txt" and runnable by "main.exe". The parameteres in "datas.txt" are the following:
 </p>
+<br \>
 - phi0: initial angular displacement.
 - L: the length of the pendulum.
 - m: the mass of the pendulum.
