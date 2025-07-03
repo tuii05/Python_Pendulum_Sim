@@ -1,5 +1,5 @@
 <p align="center">
-<center><h1>Single pendulum simulation with air resistance.</h1></center> <br \>
+<center><h1>Single pendulum simulation with air resistance.</h1></center>
 </p>
 <p align="justify">
 The simulation contains one pendulum and renders its motion physically accurate by solving the differential equation gained by Newton's laws. The program is modifiable with "datas.txt" and runnable by "main.exe". The parameteres in "datas.txt" are the following:
